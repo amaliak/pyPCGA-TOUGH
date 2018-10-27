@@ -22,7 +22,7 @@ This README file provides:
 
 ### Applications
 
-- A Kokkinaki, J Lee, H Ghorbanidehno, PK Kitanidis, EF Darve Subsurface characterization for large scale systems: An integrated python-based inversion tool for TOUGH2, TOUGH2 Symposium 2018, Slides can be found here. 
+- A Kokkinaki, J Lee, H Ghorbanidehno, PK Kitanidis, EF Darve Subsurface characterization for large scale systems: An integrated python-based inversion tool for TOUGH2, TOUGH2 Symposium 2018. Slides can be found [here](https://github.com/amaliak/pyPCGA-TOUGH/blob/master/Kokkinaki_Inverse_Subsurface_characterization_final.pdf). 
 
 - J Lee, A Kokkinaki, PK Kitanidis, Fast large-scale joint inversion for deep aquifer characterization using pressure and heat tracer measurements, Transport in Porous Media, 123(3): 533-543, 2018
 
