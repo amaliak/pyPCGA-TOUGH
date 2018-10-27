@@ -7,6 +7,9 @@ This README file provides:
 - Installation guides
 - Instructions for running a tutorial
 
+## Method description and literature
+
+
 
 ## Installating pyPCGA-TOUGH
 
@@ -22,7 +25,6 @@ After the download finishes, you should have a folder called pyPCGA. Run the mak
 
 Troubleshooting:
 - The make file will complain if you don't have numpy installed. 
-- 
 
 
 ### Install pyTOUGH
@@ -31,5 +33,5 @@ Troubleshooting:
 
 
 
-
+## Running the tutorial
 
