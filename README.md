@@ -44,9 +44,28 @@ Troubleshooting:
 
 ### Install pyTOUGH
 
+Download pyTOUGH from the git repository in your chosen folder:
+
 ``` git clone https://github.com/acroucher/PyTOUGH.git ```
+
+After the download finishes, you should have a folder called PyTOUGH. While in that directory, do:
+
+```python setup.py install ```
+
+For complete installation instructions and troubleshooting, see PyTOUGH instructions [manual](https://github.com/acroucher/PyTOUGH/blob/master/doc/PyTOUGH-guide.pdf)
 
 
 
 ## Running the tutorial
+
+### Running a single variable inversion: Hydraulic tomography
+
+For this tutorial, use file inv_tough_pre.py 
+
+
+
+### Running joint inversion: Heat tracer tomography
+
+
+For this tutorial, use file inv_tough_joint.py 
 
