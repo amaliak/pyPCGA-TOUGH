@@ -39,7 +39,8 @@ After the download finishes, you should have a folder called pyPCGA. Run the mak
 ``` make install  ```
 
 Troubleshooting:
-- The make file will complain if you don't have numpy installed. 
+- The make file will complain if you don't have numpy and matplotlib installed.
+- If you use Anaconda you can install the packages using 'conda install <package_name>'
 
 
 ### Install pyTOUGH
