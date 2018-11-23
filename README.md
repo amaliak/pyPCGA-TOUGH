@@ -42,6 +42,13 @@ Troubleshooting:
 - The make file will complain if you don't have numpy and matplotlib installed.
 - If you use Anaconda you can install the packages using 'conda install <package_name>'
 
+If you have multiple versions of python installed (e.g. 2.x and a more recent 3.x. verison), it is possible that pyPCGA may be installed in the wrong location (e.g. in /usr/lib64/python2.7/ as opposed to the python 3 library directory. 
+
+To check if pyPCGA was installed in the right place, go to one of the examples e.g. pyPCGA/examples/pumping_history_identification and from within that directory try:
+``` from pyPCGA import PCGA ```
+
+If the libraries were not installed properly, you will get a message that module pyPCGA was not found. 
+
 
 ### Install pyTOUGH
 
